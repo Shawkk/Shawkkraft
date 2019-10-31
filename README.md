@@ -1,2 +1,4 @@
 # nelify-demo2
-lol
+
+Minecraft Server Site 
+This will be the site for our Minecraft server :) 
