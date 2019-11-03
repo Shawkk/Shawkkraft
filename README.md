@@ -1,4 +1,4 @@
-# nelify-demo2
+# Shawkkraft
 
 Minecraft Server Site 
 This will be the site for our Minecraft server :) 
