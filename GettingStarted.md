@@ -1,4 +1,4 @@
-#Getting Started 
+Getting Started 
 
 These courses are free and should be paged through, try to get at least halfway :) 
 
@@ -11,9 +11,11 @@ https://www.codecademy.com/learn/make-a-website
 This one says "pro" so just use a free trial:
 https://www.codecademy.com/learn/learn-the-command-line
 
-#Resources
+Resources
 
 Some references, cool things and useful sites as you learn: 
+
+guides.github.com/activities/hello-world/
 
 https://www.firsttimersonly.com/
 https://www.hackerrank.com/ 
